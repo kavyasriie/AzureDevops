@@ -1,0 +1,9 @@
+{
+	"name": "sourcetodestination",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d66a0c3c-a793-4111-8a47-af5a39a80235",
+		"tenantId": "1546a14e-9b49-4ad1-8a06-8e39df9d59b2"
+	}
+}
